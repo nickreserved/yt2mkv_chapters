@@ -17,7 +17,7 @@ This is possible with another  great program, the `youtube-dl`. You can find it 
 Just run `youtube-dl <YouTubeURL>` and the video will be downloaded locally.
 
 
-## How to download video from YouTube
+## How to download video chapters from YouTube
 
 You cannot download just chapters from YouTube. But you can download a JSON file which contains the chapters.
 
