@@ -55,7 +55,7 @@ python yt2mkv_chapters.py <JSON> <TXT>
 Without parameters, a help message printed in `stdout`.
 
 
-# Direct convert to simple matroska chapters file
+## Direct convert to simple matroska chapters file
 Ok, lets do an example with piping:
 ```
 youtube-dl --dump-json https://www.youtube.com/watch?v=L928CmhAPQY | python yt2mkv_chapters.py -- "Blood (1997) [Midi OST].txt"
